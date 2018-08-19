@@ -28,11 +28,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.64"
-     inkscape:cx="880.33464"
-     inkscape:cy="541.32977"
+     inkscape:zoom="0.45254834"
+     inkscape:cx="891.00515"
+     inkscape:cy="538.27839"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1018"
@@ -306,10 +306,10 @@
        y="0"
        xlink:href="#path6208"
        id="use6279"
-       transform="matrix(-1,0,0,1,941.98105,0)"
+       transform="matrix(-1,0,0,1,945,0)"
        width="100%"
        height="100%"
-       style="stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none;stroke:#008000" />
+       style="stroke:#008000;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none" />
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -538,7 +538,7 @@
        y="0"
        xlink:href="#path6161"
        id="use6163"
-       transform="translate(564.00831,0.03741)"
+       transform="translate(567.03565,0.13506625)"
        width="100%"
        height="100%" />
     <use
@@ -546,7 +546,7 @@
        y="0"
        xlink:href="#use6163"
        id="use6165"
-       transform="translate(354.08481,0.039733)"
+       transform="translate(351.05747,-0.05792325)"
        width="100%"
        height="100%" />
     <use
@@ -592,7 +592,7 @@
        y="0"
        xlink:href="#use6273"
        id="use6275"
-       transform="translate(239.98089,-0.015307)"
+       transform="translate(243.01923,-0.29152058)"
        width="100%"
        height="100%" />
     <circle
@@ -601,30 +601,18 @@
        cx="459.02676"
        cy="593.98529"
        r="12" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use6275-5"
-       id="use6306"
-       transform="translate(350.99763,-0.13617)"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use6306"
+    <circle
+       r="12"
+       cy="593.70117"
+       cx="944.94171"
        id="use6308"
-       transform="translate(134.91731,-0.14793)"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use6306"
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#ffcc00;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="12"
+       cy="593.93842"
+       cx="593.99762"
        id="use6310"
-       transform="translate(-216.02678,0.08929)"
-       width="100%"
-       height="100%" />
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#ffcc00;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <circle
        r="12"
        cy="647.94733"
@@ -644,7 +632,7 @@
        y="0"
        xlink:href="#use6310-8"
        id="use6376"
-       transform="translate(108.03571,0.04464)"
+       transform="translate(108.01339,0.02094462)"
        width="100%"
        height="100%" />
     <circle
@@ -666,7 +654,7 @@
        y="0"
        xlink:href="#use6455"
        id="use6457"
-       transform="translate(242.98367,0.05865)"
+       transform="translate(189.07742,-0.1366625)"
        width="100%"
        height="100%" />
     <use
@@ -674,7 +662,7 @@
        y="0"
        xlink:href="#use6457"
        id="use6459"
-       transform="translate(269.93212)"
+       transform="translate(323.83837,0.1953125)"
        width="100%"
        height="100%" />
     <use
@@ -722,7 +710,7 @@
        y="0"
        xlink:href="#use6310-8"
        id="use6359-62-5"
-       transform="translate(647.85715,-0.13393)"
+       transform="translate(675.10324,-0.03627375)"
        width="100%"
        height="100%" />
     <use
@@ -733,30 +721,24 @@
        transform="translate(782.85715,-0.13393)"
        width="100%"
        height="100%" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use6306"
+    <circle
+       r="12"
+       cy="593.95374"
+       cx="1484.9417"
        id="use6308-1"
-       transform="translate(674.91731,0.10461)"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use6306"
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#ffcc00;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="12"
+       cy="593.70117"
+       cx="1592.9417"
        id="use6308-3"
-       transform="translate(782.91731,-0.14793)"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use6306"
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#ffcc00;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="12"
+       cy="594.10614"
+       cx="1728.1083"
        id="use6308-8"
-       transform="translate(918.08393,0.257026)"
-       width="100%"
-       height="100%" />
+       style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#ffcc00;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <use
        x="0"
        y="0"
