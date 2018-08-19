@@ -28,11 +28,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.45254834"
-     inkscape:cx="504.30613"
-     inkscape:cy="538.27839"
+     inkscape:zoom="0.64"
+     inkscape:cx="882.8081"
+     inkscape:cy="501.85301"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer4"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1018"
@@ -41,7 +41,7 @@
      inkscape:window-maximized="1"
      inkscape:snap-nodes="true"
      inkscape:snap-grids="true"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true"
      objecttolerance="10000"
      guidetolerance="10000">
@@ -490,7 +490,7 @@
        xml:space="preserve"
        id="flowRoot10127"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:0px;word-spacing:0px;fill:#5d6c54;fill-opacity:1;stroke:none;stroke-opacity:1"
-       transform="translate(0.8482707,-5.2788266)"><flowRegion
+       transform="translate(4.0709269,-5.6694516)"><flowRegion
          id="flowRegion10129"
          style="fill:#5d6c54;fill-opacity:1;stroke:none;stroke-opacity:1"><rect
            id="rect10131"
@@ -500,7 +500,7 @@
            y="54"
            style="fill:#5d6c54;fill-opacity:1;stroke:none;stroke-opacity:1" /></flowRegion><flowPara
          id="flowPara10133"
-         style="font-style:normal;font-weight:bold;text-align:center;text-anchor:middle;fill:#5d6c54;fill-opacity:1;stroke:none;stroke-opacity:1">$gitk</flowPara></flowRoot>    <rect
+         style="font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#5d6c54;fill-opacity:1;stroke:none;stroke-opacity:1">$ gitk</flowPara></flowRoot>    <rect
        style="display:inline;opacity:1;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.45825753;stroke-opacity:1"
        id="rect6137-2-3"
        width="377.99997"
@@ -766,14 +766,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#5d6c53;fill-opacity:1;stroke:none"
-       x="103.48851"
-       y="983.49774"
+       x="105.63695"
+       y="979.20087"
        id="text10101"><tspan
          sodipodi:role="line"
          id="tspan10099"
-         x="103.48851"
-         y="983.49774"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#5d6c53;fill-opacity:1;stroke:none;stroke-opacity:1">{ab}</tspan></text>
+         x="105.63695"
+         y="979.20087"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#5d6c53;fill-opacity:1;stroke:none;stroke-opacity:1">{ab}</tspan></text>
     <circle
        r="12"
        cy="432.02472"

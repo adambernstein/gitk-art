@@ -28,11 +28,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="985.12246"
-     inkscape:cy="1125.1589"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="555.19874"
+     inkscape:cy="1480.708"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1018"
@@ -891,24 +891,24 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#5d6c53;fill-opacity:1;stroke:none"
-       x="77.346375"
-       y="1823.4977"
+       x="78.596375"
+       y="1819.4977"
        id="text10101"><tspan
          sodipodi:role="line"
          id="tspan10099"
-         x="77.346375"
-         y="1823.4977"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#5d6c53;fill-opacity:1;stroke:none;stroke-opacity:1">{ab}</tspan></text>
+         x="78.596375"
+         y="1819.4977"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#5d6c53;fill-opacity:1;stroke:none;stroke-opacity:1">{ab}</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#5d6c53;fill-opacity:1;stroke:none"
-       x="887.34637"
-       y="257.49768"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#7b8e6e;fill-opacity:1;stroke:none"
+       x="824.45264"
+       y="121.33138"
        id="text10101-3"><tspan
          sodipodi:role="line"
          id="tspan10099-7"
-         x="887.34637"
-         y="257.49768"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#5d6c53;fill-opacity:1;stroke:none;stroke-opacity:1">$gitk</tspan></text>
+         x="824.45264"
+         y="121.33138"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#7b8e6e;fill-opacity:1;stroke:none;stroke-opacity:1">$ gitk</tspan></text>
   </g>
 </svg>
