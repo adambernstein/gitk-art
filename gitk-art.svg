@@ -19,8 +19,8 @@
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="gitk-art.svg"
    inkscape:export-filename="C:\Users\Adam\Documents\gitk-art-titled-signed.png"
-   inkscape:export-xdpi="79.992104"
-   inkscape:export-ydpi="79.992104">
+   inkscape:export-xdpi="79.989998"
+   inkscape:export-ydpi="79.989998">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -41,7 +41,7 @@
      inkscape:window-maximized="1"
      inkscape:snap-nodes="true"
      inkscape:snap-grids="true"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      objecttolerance="10000"
      guidetolerance="10000">
