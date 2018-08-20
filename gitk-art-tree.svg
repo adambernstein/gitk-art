@@ -18,7 +18,7 @@
    id="SVGRoot"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="gitk-art-tree.svg"
-   inkscape:export-filename="C:\Users\Adam\Documents\gitk-art\gitk-art-tree.png"
+   inkscape:export-filename="C:\Users\Adam\Documents\gitk-art\gitk-art-tree-solidbg.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <sodipodi:namedview
@@ -28,11 +28,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="555.19874"
-     inkscape:cy="1480.708"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="177.74256"
+     inkscape:cy="960.03983"
      inkscape:document-units="px"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1018"
@@ -80,18 +80,6 @@
   </sodipodi:namedview>
   <defs
      id="defs10">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient2497">
-      <stop
-         style="stop-color:#0f0f0f;stop-opacity:1"
-         offset="0"
-         id="stop2493" />
-      <stop
-         style="stop-color:#496092;stop-opacity:1"
-         offset="1"
-         id="stop2495" />
-    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient1107">
@@ -308,15 +296,6 @@
        y1="1080"
        x2="540"
        y2="-351" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2497"
-       id="linearGradient2499"
-       x1="540"
-       y1="1080"
-       x2="540"
-       y2="-756"
-       gradientUnits="userSpaceOnUse" />
     <filter
        inkscape:label="Sharpen More"
        inkscape:menu="Image Effects"
@@ -358,7 +337,7 @@
      style="display:inline"
      transform="translate(0,840)">
     <rect
-       style="opacity:1;fill:url(#linearGradient2499);fill-opacity:1;stroke:none;stroke-width:1.13618183;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter2907)"
+       style="opacity:1;fill:#373748;fill-opacity:1;stroke:none;stroke-width:1.13618183;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter2907)"
        id="rect2467"
        width="1080"
        height="1917"
