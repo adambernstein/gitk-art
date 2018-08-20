@@ -16,9 +16,9 @@
    viewBox="0 0 1920 1080"
    version="1.1"
    id="SVGRoot"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="gitk-art-rainbow.svg"
-   inkscape:export-filename="C:\Users\Adam\Documents\gitk-art\gitk-art-rainbow.png"
+   inkscape:export-filename="C:\Users\abernstein\Documents\gitk-art\solid-bg\gitk-art-rainbow-solid-bg.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <sodipodi:namedview
@@ -29,15 +29,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.64"
-     inkscape:cx="882.8081"
+     inkscape:cx="621.8706"
      inkscape:cy="501.85301"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1018"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="2560"
+     inkscape:window-height="1365"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:snap-nodes="true"
      inkscape:snap-grids="true"
@@ -264,7 +264,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -281,7 +281,7 @@
        x="5e-007"
        y="0.25256297" />
     <rect
-       style="opacity:1;fill:#1b1b1b;fill-opacity:1;stroke:#87de87;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#373737;fill-opacity:1;stroke:#87de87;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect10095"
        width="1920.1895"
        height="1079.7474"
